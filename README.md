@@ -18,7 +18,7 @@ Using node index.js to run.
 
 ## Usage
 
-For more details, refer to this [video](https://drive.google.com/file/d/13kJ-kPJ3kYPiRp4hmW9zyjsHLMGSsDRs/view?usp=sharing).
+E commerce companies
 
 ## Walkthrough Video
 
